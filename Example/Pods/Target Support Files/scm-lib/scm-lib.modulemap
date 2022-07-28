@@ -1,0 +1,6 @@
+framework module scm_lib {
+  umbrella header "scm-lib-umbrella.h"
+
+  export *
+  module * { export * }
+}

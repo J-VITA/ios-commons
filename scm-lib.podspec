@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/mpfreedom@nate.com/scm-lib'
+  s.homepage         = 'https://github.com/jjkim@skyware.co.kr/scm-lib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'mpfreedom@nate.com' => 'mpfreedom@nate.com' }
-  s.source           = { :git => 'https://github.com/mpfreedom@nate.com/scm-lib.git', :tag => s.version.to_s }
+  s.author           = { 'jjkim@skyware.co.kr' => 'jjkim@skyware.co.kr' }
+  s.source           = { :git => 'https://github.com/jjkim@skyware.co.kr/scm-lib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'

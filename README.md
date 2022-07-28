@@ -1,6 +1,6 @@
 # scm-lib
 
-[![CI Status](https://img.shields.io/travis/mpfreedom@nate.com/scm-lib.svg?style=flat)](https://travis-ci.org/mpfreedom@nate.com/scm-lib)
+[![CI Status](https://img.shields.io/travis/jjkim@skyware.co.kr/scm-lib.svg?style=flat)](https://travis-ci.org/jjkim@skyware.co.kr/scm-lib)
 [![Version](https://img.shields.io/cocoapods/v/scm-lib.svg?style=flat)](https://cocoapods.org/pods/scm-lib)
 [![License](https://img.shields.io/cocoapods/l/scm-lib.svg?style=flat)](https://cocoapods.org/pods/scm-lib)
 [![Platform](https://img.shields.io/cocoapods/p/scm-lib.svg?style=flat)](https://cocoapods.org/pods/scm-lib)
@@ -22,7 +22,7 @@ pod 'scm-lib'
 
 ## Author
 
-mpfreedom@nate.com, mpfreedom@nate.com
+jjkim@skyware.co.kr, jjkim@skyware.co.kr
 
 ## License
 
