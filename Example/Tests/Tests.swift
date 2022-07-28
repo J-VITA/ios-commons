@@ -1,5 +1,5 @@
 import XCTest
-import scm-lib
+import scm_lib
 
 class Tests: XCTestCase {
     

@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## scm-lib
 
-Copyright (c) 2022 jjkim@skyware.co.kr <jjkim@skyware.co.kr>
+Copyright (c) 2022 unagrdev@gmail.com <JayKim>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

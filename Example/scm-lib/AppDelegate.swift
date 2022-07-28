@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  scm-lib
 //
-//  Created by jjkim@skyware.co.kr on 07/29/2022.
-//  Copyright (c) 2022 jjkim@skyware.co.kr. All rights reserved.
+//  Created by unagrdev@gmail.com on 07/29/2022.
+//  Copyright (c) 2022 unagrdev@gmail.com. All rights reserved.
 //
 
 import UIKit
